@@ -2,7 +2,7 @@
 //  Common.m
 //  evilAuthPlugin
 //
-//  Created by Chris Ross on 9/25/18.
+// Copied from here: https://github.com/alex030/UserConfigAgent/tree/master/Common
 //
 
 #import <Foundation/Foundation.h>
